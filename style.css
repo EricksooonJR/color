@@ -1,0 +1,41 @@
+html,
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    text-align: center;
+}
+.salida{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+width: 30%; 
+height: 8rem; 
+margin: 1rem 35%;  
+border: 1px solid black;
+font-size: 35px;
+-webkit-text-stroke: 1px black;
+
+}
+
+.color-div{
+    text-align: center;
+}
+
+ul{
+    display: flex;
+    color: white;
+    list-style: none;
+    flex-wrap: wrap;
+
+}
+
+li{
+    margin-right: 10px;
+    border: 1px solid #000;
+    
+    margin-top: 10px;
+}
